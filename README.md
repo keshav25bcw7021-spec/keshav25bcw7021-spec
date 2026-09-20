@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Keshav.
 
-<!--
-**keshav25bcw7021-spec/keshav25bcw7021-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in
+software, systems, electronics, and logic.
 
-Here are some ideas to get you started:
+Currently learning
+→ Data Structures & Algorithms
+→ Artificial Intelligence
+→ Computer Architecture
+→ Discrete Mathematics
+→ Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+[ PCB Inspection System ]
+Automated electrical testing and fault diagnosis
+using Arduino, ADS1115 and multiplexing.
+
+[ DSA in Java ]
+Implementations and experiments while learning
+data structures and algorithms.
+
+## Interests
+
+Software Engineering · Embedded Systems
+Algorithms · Logic · Philosophy
+
+---
+
+Currently building, learning, and occasionally
+going down completely unnecessary rabbit holes.
