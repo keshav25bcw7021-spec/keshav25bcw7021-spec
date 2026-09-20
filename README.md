@@ -40,8 +40,6 @@ The system uses multiplexed test points and ADC measurements to perform automate
 * Electrical measurement and fault detection
 * Serial communication with the software backend
 
-→ **[View project](#)**
-
 ---
 
 ### I²C & ADS1115 Experiments
